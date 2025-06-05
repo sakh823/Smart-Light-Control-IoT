@@ -16,7 +16,7 @@
 - Interactive UI with three control buttons
 
 ## 📷 Project Demo
-![Web Interface](images/webpage-interface.jpg)
+![Web Interface](iWeb Interface.png)
 ![Hardware Setup](images/hardware-setup.jpg)
 
 ## 📱 (Optional) Android App
