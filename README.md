@@ -16,8 +16,7 @@
 - Interactive UI with three control buttons
 
 ## 📷 Project Demo
-![Web Interface](Smart-Light-Control-IoT
-/Web Interface.png)
+![Web Interface](Smart-Light-Control-IoT/Web Interface.png)
 ![Hardware Setup](images/hardware-setup.jpg)
 
 ## 📱 (Optional) Android App
