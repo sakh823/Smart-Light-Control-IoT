@@ -29,8 +29,8 @@ A basic Android app (using Java/Kotlin) to control the light over Wi-Fi.
 4. (Optional) Use Android app to trigger actions.
 
 ## 📚 About
-- **Student**: Your Name
-- **University**: [Your University Name]
+- **Student**: Muhammad Shahid
+- **University**: AWKUM universty
 - **Semester**: BSCS Semester 6
 - **Subject**: Internet of Things (IoT)
 
